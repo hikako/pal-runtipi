@@ -6,13 +6,19 @@
   "exposable": false,
   "dynamic_config": true,
   "id": "palworld",
-  "description": "Palworld Dedicated Server.",
+  "description": "Palworld Dedicated Server",
   "tipi_version": 3,
   "version": "1.0.0",
-  "categories": ["games"],
-  "short_desc": "Host your own Palworld multiplayer server.",
-  "author": "thijsvanloef",
+  "categories": [
+    "games"
+  ],
+  "short_desc": "Palworld Server",
+  "author": "YourName",
   "source": "https://github.com/thijsvanloef/palworld-server-docker",
   "form_fields": [],
-  "supported_architectures": ["amd64"]
+  "supported_architectures": [
+    "amd64"
+  ],
+  "created_at": 1720742322000,
+  "updated_at": 1720742322000
 }
