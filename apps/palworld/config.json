@@ -1,0 +1,18 @@
+{
+  "name": "Palworld",
+  "min_tipi_version": "4.0.0",
+  "available": true,
+  "port": 8211,
+  "exposable": false,
+  "dynamic_config": true,
+  "id": "palworld",
+  "description": "Palworld Dedicated Server.",
+  "tipi_version": 3,
+  "version": "1.0.0",
+  "categories": ["games"],
+  "short_desc": "Host your own Palworld multiplayer server.",
+  "author": "thijsvanloef",
+  "source": "https://github.com/thijsvanloef/palworld-server-docker",
+  "form_fields": [],
+  "supported_architectures": ["amd64"]
+}

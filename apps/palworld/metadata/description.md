@@ -1,0 +1,1 @@
+# Palworld Server \n Your dedicated server setup.
