@@ -8,12 +8,12 @@
   "id": "palworld",
   "description": "Palworld Dedicated Server",
   "tipi_version": 3,
-  "version": "1.0.1",
+  "version": "1.0.1.1",
   "categories": [
     "gaming"
   ],
   "short_desc": "Palworld Server",
-  "author": "YourName",
+  "author": "uwuki",
   "source": "https://github.com/thijsvanloef/palworld-server-docker",
   "form_fields": [],
   "supported_architectures": [
